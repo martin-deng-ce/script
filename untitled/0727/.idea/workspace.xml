@@ -10,12 +10,6 @@
       <change afterPath="$PROJECT_DIR$/case/test_login_dt_excel.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/case/test_school.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/case/testdata.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/commen/Excel_demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/commen/Excel_demo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/interface/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/interface/school.py" beforeDir="false" afterPath="$PROJECT_DIR$/interface/school.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_string/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_string/__init__.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
