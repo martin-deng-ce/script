@@ -44,6 +44,6 @@ if __name__ == '__main__':
     r = l.login("admin", "660B8D2D5359FF6F94F8D3345698F88C")
     print(r.text)
 #
-#     name = random.randint(10, 1000000)
-#     r = l.add(name)
-#     print(r.text)
+    name = random.randint(10, 1000000)
+    r = l.add(name)
+    print(r.text)

@@ -8,7 +8,7 @@ class Excelutil(object):
         self.data = xlrd.open_workbook(excelPath)
         self.table = self.data.sheet_by_name(sheetName)
         self.keys = self.table.row_values(0)
-        self.rownum = self.table.nrows
+        self.rownum = self.table.nrows#
         self.colnum = self.table.ncols
     def dict_data(self):
         if self.rownum <= 1:
